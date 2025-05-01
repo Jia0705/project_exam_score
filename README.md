@@ -2,6 +2,12 @@
 
 ---
 
+## ❓ Problem Statement
+
+Is exam score truly a fair measure of student performance or is there more to the story?
+
+---
+
 ## 📌 Purpose
 
 The purpose of this project is to analyze student data and build a machine learning model that predicts exam score, helping to identify the key factors that influence academic performance
@@ -75,5 +81,3 @@ The purpose of this project is to analyze student data and build a machine learn
 | Model               | R² Score | MSE     |
 |--------------------|----------|---------|
 | Voting Regressor   | 0.8661   | 35.67   |
-
----
